@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: titanic
-        image: yseultmasson/application-correction:latest
+        image: yseultmasson/application-correction:v1.0.0
         ports:
         - containerPort: 5000
